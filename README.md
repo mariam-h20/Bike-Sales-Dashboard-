@@ -42,5 +42,5 @@ The dataset contains information on:
 	### Dashboard Preview
 
 📄 **View Dashboard (PDF):**  
-[bike-sales-dashboard.pdf.pdf](bike-sales-dashboard.pdf.pdf)
+[Bike-sales-dashboard.png](Bike-sales-dashboard.png)
   
