@@ -38,4 +38,9 @@ The dataset contains information on:
 	•	Average income per purchase by gender
 	•	Customer age bracket analysis
 	•	Commute distance vs purchase behavior
+
+	### Dashboard Preview
+
+📄 **View Dashboard (PDF):**  
+[bike-sales-dashboard.pdf](bike-sales-dashboard.pdf)
   
