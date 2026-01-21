@@ -4,8 +4,8 @@ This is an Excel dashboard that analyzes bike sales data to understand customer 
 Dataset
 
 The dataset contains information on:
+
 	•	Customer gender
-  
 	•	Marital status
 	•	Region
 	•	Education level
